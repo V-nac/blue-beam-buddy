@@ -22,7 +22,7 @@ const Index = () => {
 
       {/* Main content */}
       <div className="min-h-screen flex flex-col items-center justify-center relative z-10">
-        <div className="bg-background/80 backdrop-blur-sm rounded-3xl p-8 shadow-2xl border border-primary/20 max-w-md w-full mx-4">
+        <div className="bg-white backdrop-blur-sm rounded-3xl p-6 shadow-2xl border border-primary/20 max-w-sm w-full mx-4">
           <div className="text-center space-y-8">
             <div className="mb-8">
               <img 
