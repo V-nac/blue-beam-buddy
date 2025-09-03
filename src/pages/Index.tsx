@@ -26,7 +26,7 @@ const Index = () => {
           <div className="text-center space-y-8">
             <div className="mb-8">
               <img 
-                src="/lovable-uploads/320d335b-774d-4ec7-8152-5b35078ed8a2.png" 
+                src="/lovable-uploads/bc307483-24fa-4fda-9be1-ab8b1c7ecd91.png" 
                 alt="Pachem Dental Clinic" 
                 className="mx-auto max-w-full h-auto max-h-32 object-contain drop-shadow-lg" 
               />
