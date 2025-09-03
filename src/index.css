@@ -101,5 +101,20 @@ All colors MUST be HSL.
 
   body {
     @apply bg-background text-foreground;
+    background: var(--gradient-bg);
+    min-height: 100vh;
+  }
+
+  .telegram-button {
+    background: hsl(var(--telegram-blue));
+    color: white;
+    transition: var(--transition-smooth);
+    box-shadow: var(--button-shadow);
+  }
+
+  .telegram-button:hover {
+    background: hsl(var(--telegram-hover));
+    transform: translateY(-2px);
+    box-shadow: 0 15px 35px -5px hsl(200 90% 55% / 0.4);
   }
 }
